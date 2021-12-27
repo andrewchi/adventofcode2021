@@ -17,3 +17,7 @@ There are usually two different Python scripts for part 1 and part 2.  For examp
 * Day 1 part 2: `count_w3_increases.py`
 
 The naming is puzzle-specific.
+
+## Unfinished puzzles
+
+I haven't solved puzzles 19, 23, and 24, so those subdirectories have the puzzle statement only.
